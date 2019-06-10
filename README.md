@@ -7,17 +7,17 @@ Things you may want to cover:
 
 * Ruby version
 
-2.6.3
+  2.6.3
 
 * System dependencies
-rails 5.2.3
-mysql
+  rails 5.2.3
+  mysql
 
 * Configuration
-bundle install
+  bundle install
 * Database creation
 
-bin/rails db:create db:migrate db:seed
+ bin/rails db:create db:migrate db:seed
 
 * Database initialization
 
@@ -25,5 +25,5 @@ bin/rails db:create db:migrate db:seed
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-rails s
+  rails s
 * ...
