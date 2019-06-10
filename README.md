@@ -24,18 +24,13 @@ Things you may want to cover:
  bundle install
 ```
 
-* Database creation
+* Database creation, initialization
 
 ```
- bin/rails db:create db:migrate db:seed
+rails db:create db:migrate db:seed
 ```
 
-* Database initialization
-
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Starting the server
 
 ```
   rails s
