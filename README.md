@@ -19,6 +19,8 @@ Things you may want to cover:
   faker
 ```
 
+https://gorails.com/setup/osx/10.14-mojave
+
 * Configuration
 
 ```
