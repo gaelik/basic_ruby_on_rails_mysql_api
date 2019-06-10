@@ -16,6 +16,7 @@ Things you may want to cover:
 ```
   rails 5.2.3
   mysql
+  faker
 ```
 
 * Configuration
